@@ -1,0 +1,55 @@
+/* html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+*/
+
+.upstcard{
+	
+	border-radius: 2px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	/*box-shadow: 0px 4px 5px rgba(153,153,153, 0.2);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999;
+	*/
+
+}
+
+.center {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+
+.hashtag{
+	color: #000066;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+
+}
+
+.comment {
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
